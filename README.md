@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirbotz&label=Profile%20views&color=0e75b6&style=flat" alt="amirbotz" /> </p>
 
-- 🔭 I’m currently working on [Studying,](Civil Engineering)
+- 🔭 I’m currently working on Studying
 
-- 🌱 I’m currently learning **Engineering**
+- 🌱 I’m currently learning **civil Engineering**
 
-- 👯 I’m looking to collaborate on **AB_BotZ**
+- 👯 I’m looking to collaborate on [https://telegram.me/ab_botz_update](https://telegram.me/ab_botz_update)
 
 - 🤝 I’m looking for help with **Amir BotZ**
 
-- 👨‍💻 All of my projects are available at [t.me/ab_botz_update](t.me/ab_botz_update)
+- 👨‍💻 All of my projects are available at [https://telegram.me/ab_botz](https://telegram.me/ab_botz)
 
-- 📫 How to reach me **t.me/ab_botz**
+- 📫 How to reach me [https://telegram.me/ABMovieHouse](https://telegram.me/ABMovieHouse)
 
 - ⚡ Fun fact **Iam very Funny 🤣**
 

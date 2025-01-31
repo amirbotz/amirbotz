@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amir Bista</h1>
-<h3 align="center">A passionate frontend developer from Nepal🇳🇵</h3>
+<h3 align="center">I'm not developer and i don't know about python, coding</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirbotz&label=Profile%20views&color=0e75b6&style=flat" alt="amirbotz" /> </p>
 
 - 🔭 I’m currently working on Studying
-
-- 🌱 I’m currently learning **civil Engineering**
 
 - 👯 I’m looking to collaborate on [https://telegram.me/ab_botz_update](https://telegram.me/ab_botz_update)
 
@@ -16,8 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://telegram.me/ab_botz](https://telegram.me/ab_botz)
 
 - 📫 How to reach me [https://telegram.me/ABMovieHouse](https://telegram.me/ABMovieHouse)
-
-- ⚡ Fun fact **Iam very Funny 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

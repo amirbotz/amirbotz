@@ -1,3 +1,6 @@
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Mʀ.Aᴍɪʀ)
+</p>
+
 <h1 align="center">Hi 👋, I'm Amir Bista</h1>
 <h3 align="center">I'm not developer and i don't know about python, coding</h3>
 
@@ -7,7 +10,7 @@
 
 - 🔭 I’m currently working on Studying
 
-  <br><p align="center"><b>ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡᴇʀꜱ</b></p>  
+  <br><p align="center"><b>**ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡᴇʀꜱ**</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{amirbotz}/count.svg"/></p> 
 
 <h3 align="left">Connect with me:</h3>

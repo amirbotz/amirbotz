@@ -1,7 +1,7 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Mʀ.Aᴍɪʀ)
 </p>
 
-<h1 align="center">Hi 👋, I'm Amir Bista</h1>
+<h1 align="center">Hi 👋, I'm Amir </h1>
 <h3 align="center">I'm not developer and i don't know about python, coding</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
